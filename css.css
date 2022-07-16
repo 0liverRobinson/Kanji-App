@@ -5,5 +5,50 @@ body{
     position: absolute;
     left: 0%;
     top: 0%;
-    background: blue;
+    background: rgb(24, 21, 22);
+}
+
+
+
+button
+{
+    color: white;
+    background-color: rgb(24, 21, 22);
+    border: solid 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+button:hover
+{
+    background-color: white;
+    color: rgb(24, 21, 22);
+    cursor: pointer;
+}
+
+
+button:focus
+{
+    overflow: none;
+}
+
+#card
+{
+    position: absolute;
+    align-items: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
+
+#Target
+{
+
+}
+#Activity
+{
+
 }
