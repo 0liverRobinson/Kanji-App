@@ -8,8 +8,6 @@ body{
     background: rgb(24, 21, 22);
 }
 
-
-
 button
 {
     color: white;
@@ -26,7 +24,6 @@ button:hover
     color: rgb(24, 21, 22);
     cursor: pointer;
 }
-
 
 button:focus
 {
@@ -46,7 +43,7 @@ button:focus
 
 #Target
 {
-
+    
 }
 #Activity
 {
